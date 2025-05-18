@@ -40,7 +40,7 @@ SignifyX is an innovative web application that translates sign language into tex
 
 ```sh
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/moneythakur000/SignifyX.git>
 
 # Navigate to the project directory
 cd signifyx
